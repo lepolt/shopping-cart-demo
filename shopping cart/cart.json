@@ -1,0 +1,29 @@
+{
+	"products": [{
+			"id": 1234,
+			"name": "Strandmon",
+			"image": "product-strandmon.png",
+			"style": "Wing Chair",
+			"unitprice": 200,
+			"qty": 1,
+			"color": {
+				"name": "yellow",
+				"swatch": "#FFCD24"
+			}
+		},
+		{
+			"id": 5678,
+			"image": "product-venbo.png",
+			"name": "VENBO",
+			"style": "Armchair",
+			"unitprice": 250,
+			"qty": 1,
+			"color": {
+				"name": "green",
+				"swatch": "#366878"
+			}
+		}
+	]
+}
+
+
